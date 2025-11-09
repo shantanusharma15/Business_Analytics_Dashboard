@@ -1,6 +1,6 @@
 # Streamlit-Business-analytics-with-Excel_CSV
 
-you will learn how to create an analytics website dashboard using Python and the Streamlit library. We will use a Excel database to store the data, and we will use Streamlit to create an interactive dashboard that allows us to visualize and explore the data.
+Created an analytics website dashboard using Python and the Streamlit library. Used a Excel database to store the data, and Streamlit to create an interactive dashboard that allows us to visualize and explore the data.
 
 
  # screenshots
